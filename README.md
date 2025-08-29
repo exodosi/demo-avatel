@@ -1,2 +1,0 @@
-# demo-avatel
-Avatel-demo
